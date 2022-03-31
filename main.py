@@ -7,3 +7,4 @@ if c >= 25:
     print("está quente.")
 if c >=16 and c < 25:
     print("está agradável.")
+    print("teste")
